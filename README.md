@@ -1,19 +1,11 @@
-### Привет
+<img align="" alt="Нужно делать, так как нужно. А как не нужно, делать не нужно" src="pictures//Винни.jpg" />
 
-<a href="https://t.me/azDamo">
-  <img align="left" alt="Telegram" width="32px" src="pictures//telegram-app--v5.gif" />
-</a>
-<!-- <a href="https://vk.com/azmievsky">
-  <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
-</a> -->
+### На связи
 
-<br />
+![](/pictures/telegram-logo.png "Телеграмм") 
+![](/pictures/vk-logo.png "ВКонтакте")
 
-<br />
-
-<img align="right" alt="PIC" src="pictures//Винни.jpg" />
-
-**Языки и инструменты:**  
+### Языки и инструменты
 
 <code><img height="50" src="pictures//1c.png"></code>
 <code><img height="50" src="pictures//IBM-Notes-logo.png"></code>
