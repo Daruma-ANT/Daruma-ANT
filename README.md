@@ -3,7 +3,7 @@
 ### На связи
 
 ![](/pictures/telegram-logo.png "Телеграмм") 
-![](/pictures/vk-logo.png "ВКонтакте")
+![](/pictures/vkontakte-logo.png "ВКонтакте")
 
 ### Языки и инструменты
 
