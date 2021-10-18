@@ -5,7 +5,7 @@
 ### На связи
 
 [<img height=32 src="pictures/telegram-logo.png">](https://t.me/azDamo)
-[<img height=32 src="pictures/vkontakte-logo.png">](https://vk.com/azmievsky)
+![<img height=32 src="pictures/vkontakte-logo.png">](https://vk.com/azmievsky)
 
 ### Языки и инструменты
 
