@@ -1,9 +1,11 @@
-<img align="" alt="Нужно делать, так как нужно. А как не нужно, делать не нужно" src="pictures//Винни.jpg" />
+# Анатолий Змиевский
+
+<img alt="Нужно делать, так как нужно. А как не нужно, делать не нужно" src="pictures//Винни.jpg" >
 
 ### На связи
 
-![](/pictures/telegram-logo.png "Телеграмм") 
-![](/pictures/vkontakte-logo.png "ВКонтакте")
+[<img src="pictures/telegram-logo.png">](https://t.me/azDamo)
+[<img src="pictures/vkontakte-logo.png">]("https://vk.com/azmievsky")
 
 ### Языки и инструменты
 
